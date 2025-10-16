@@ -1,2 +1,2 @@
-# Agodi.-Index-html
+Index-html
 My first HTML, for the purpose of learning 
